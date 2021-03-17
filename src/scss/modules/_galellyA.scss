@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    .row{
+        .col-4{
+            .photo{
+                position: absolute;
+                top:40%; 
+                left:40%;
+                width: 600px;
+                color: white;
+                
+            }
+        }
+    }
+}
+
